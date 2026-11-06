@@ -3,7 +3,7 @@
     "enabled": true,
     "goldUpdateCode": 1.05,
     "versionName": "1.05",
-    "minSupportedGoldUpdateCode": 1.05,
+    "minSupportedGoldUpdateCode": 1,
     "forceUpdate": false,
     "showOnLaunch": true,
     "checkIntervalHours": 0,
