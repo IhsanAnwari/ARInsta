@@ -1,9 +1,9 @@
 {
   "stable": {
     "enabled": true,
-    "goldUpdateCode": 17,
-    "versionName": "1.00",
-    "minSupportedGoldUpdateCode": 17,
+    "goldUpdateCode": 1,
+    "versionName": "1",
+    "minSupportedGoldUpdateCode": 1,
     "forceUpdate": false,
     "showOnLaunch": true,
     "checkIntervalHours": 0,
