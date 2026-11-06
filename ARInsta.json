@@ -1,13 +1,26 @@
 {
- "version":"1.05",
- "title":"🛠️ Update Available 1.05 🛠️",
- "description":"Update now new version enjoy best experience.
-
-✅ ARInstagram V1.05
-
-⏫ Updated base 
-🆕 Fix bugs and more.
-
- ➡ New update download now .",
-"download":"https://t.me/ARMods_WhatsApp"
+  "stable": {
+    "enabled": true,
+    "goldUpdateCode": 17,
+    "versionName": "1.00",
+    "minSupportedGoldUpdateCode": 17,
+    "forceUpdate": false,
+    "showOnLaunch": true,
+    "checkIntervalHours": 0,
+    "showAgainAfterHours": 0,
+    "titleAr": "يتوفر تحديث جديد لـ ARInsta",
+    "titleEn": "A new ARInsta update is available",
+    "messageAr": "اضغط «التحديث» لزيارة صفحة التحديث وتنزيل النسخة الجديدة من ARInsta. يتوفر إصدار جديد من ARInsta.",
+    "messageEn": "A new version of ARInsta is available. Tap \"Update\" to visit the update page and get the latest version.",
+    "changelogAr": "تحسينات وإصلاحات في هذا الإصدار.",
+    "changelogEn": "Improvements and fixes in this release.",
+    "publishedAt": "2026-10-22",
+    "packages": {
+      "com.ARInsta.android": {
+        "enabled": true,
+        "downloadUrl": "https://arteammods.blogspot.com",
+        "webUrl": "https://arteammods.blogspot.com"
+      }
+    }
+  }
 }
