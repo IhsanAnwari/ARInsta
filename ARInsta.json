@@ -1,7 +1,7 @@
 {
   "stable": {
     "enabled": true,
-    "goldUpdateCode": 1.05,
+    "goldUpdateCode": 105,
     "versionName": "1.05",
     "minSupportedGoldUpdateCode": 1,
     "forceUpdate": false,
