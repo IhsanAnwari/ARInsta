@@ -14,7 +14,7 @@
     "messageEn": "A new version of ARInsta is available. Tap \"Update\" to visit the update page and get the latest version.",
     "changelogAr": "تحسينات وإصلاحات في هذا الإصدار.",
     "changelogEn": "Improvements and fixes in this release.",
-    "publishedAt": "2026-10-22",
+    "publishedAt": "2026-11-09",
     "packages": {
       "com.ARInsta.android": {
         "enabled": true,
